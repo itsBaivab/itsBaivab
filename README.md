@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/baivabmukopad3" target="blank"><img src="https://img.shields.io/twitter/follow/baivabmukopad3?logo=twitter&style=for-the-badge" alt="baivabmukopad3" /></a> </p>
 
-- 🌱 I’m currently learning **Java Script , GCP**
+- 🌱 I’m currently learning **Java Script ,GCP**
 
-- 💬 Ask me about **Java Script , Cloud and Devops**
+- 💬 Ask me about **Java Script, Backend, Cloud and Devops**
 
 - 📫 How to reach me **mukhopadhyaybaivab77@gmail.com**
 
