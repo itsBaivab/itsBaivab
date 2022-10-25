@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baivab Mukhopadhyay</h1>
 <h3 align="center">A passionate Backend developer & Devops Engineer from India.</h3>
-<img src="https://dribbble.com/shots/4502902-DevOps-engineer-animation/attachments/10432181?mode=media" alt="4502902-DevOps-engineer-animation" width="400px">
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif" alt="4502902-DevOps-engineer-animation" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsbaivab&label=Stalked%20by&color=02f28a&style=flat" alt="itsbaivab" /> </p>
 
