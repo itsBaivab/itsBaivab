@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Backend developer & Devops Engineer from India.</h3>
 <img align="left"src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif" alt="4502902-DevOps-engineer-animation" width="400px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsbaivab&label=Stalked%20by&color=02f28a&style=flat" alt="itsbaivab" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=itsbaivab&label=Stalked%20by&color=02f28a&style=flat" alt="itsbaivab" /> </p>
 
-<p align="left"> <a href="https://twitter.com/baivabmukopad3" target="blank"><img src="https://img.shields.io/twitter/follow/baivabmukopad3?logo=twitter&style=for-the-badge" alt="baivabmukopad3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/BaivabMukhopad3" target="blank"><img src="https://img.shields.io/twitter/follow/baivabmukopad3?logo=twitter&style=for-the-badge" alt="baivabmukopad3" /></a> </p>
 
 - 🌱 I’m currently learning **Java Script ,GCP**
 
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/BaivabMukhopad3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baivabmukopad3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/baivab mukhopadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baivab mukhopadhyay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/baivab-mukhopadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baivab mukhopadhyay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
