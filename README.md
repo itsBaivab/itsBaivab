@@ -24,5 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsbaivab&show_icons=true&locale=en" alt="itsbaivab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsbaivab&theme=highcontrast" alt="itsbaivab" /></p
-<div> [![@baivab_13's Holopin board](https://holopin.me/baivab_13)](https://holopin.io/@baivab_13)> </div>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsbaivab&theme=highcontrast" alt="itsbaivab"/></p>
+
+[![@baivab_13's Holopin board](https://holopin.me/baivab_13)](https://holopin.io/@baivab_13)
