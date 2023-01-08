@@ -27,3 +27,13 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsbaivab&theme=highcontrast" alt="itsbaivab"/></p>
 
 [![@baivab_13's Holopin board](https://holopin.me/baivab_13)](https://holopin.io/@baivab_13)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=BaivabMukhopad3)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=itsBaivab&icon=1&color=11)](https://visitcount.itsvg.in)
+
