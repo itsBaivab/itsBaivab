@@ -3,7 +3,7 @@
 <img align="left"src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif" alt="4502902-DevOps-engineer-animation" width="400px">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=itsbaivab&label=Stalked%20by&color=02f28a&style=flat" alt="itsbaivab" /> </p>
 
-<p align="left"> <a href="https://twitter.com/BaivabMukhopad3" target="blank"><img src="https://img.shields.io/twitter/follow/baivabmukopad3?logo=twitter&style=for-the-badge" alt="baivabmukopad3" /></a> </p>
+<p align="left"> <a href="https://x.com/baivabhere" target="blank"><img src="https://img.shields.io/twitter/follow/baivabmukopad3?logo=twitter&style=for-the-badge" alt="baivabhere" /></a> </p>
 
 - 🌱 I’m currently learning *Azure, Python**
 
