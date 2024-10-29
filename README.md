@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://x.com/baivabhere" target="blank"><img src="https://img.shields.io/twitter/follow/baivabhere?logo=twitter&style=for-the-badge" alt="baivabhere" /></a> </p>
 
-- 🌱 I’m currently learning *Azure, Python**
+- 🌱 I’m currently learning *Azure, Go**
 
-- 💬 Ask me about *python, Cloud and Devops**
+- 💬 Ask me about *python,GO, Cloud and Devops**
 
 - 📫 How to reach me **mukhopadhyaybaivab77@gmail.com**
 
