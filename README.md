@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Baivab Mukhopadhyay</h1>
-<h3 align="center">A  passionate Backend developer & aspiring MLops Engineer </h3>
+<h3 align="center">A  passionate Golang developer & MLops Engineer </h3>
 <img align="left"src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif" alt="4502902-DevOps-engineer-animation" width="400px">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=itsbaivab&label=Stalked%20by&color=02f28a&style=flat" alt="itsbaivab" /> </p>
 
 <p align="left"> <a href="https://x.com/baivabhere" target="blank"><img src="https://img.shields.io/twitter/follow/baivabhere?logo=twitter&style=for-the-badge" alt="baivabhere" /></a> </p>
 
-- 🌱 I’m currently learning *Azure, Go**
+- 🌱 I’m currently learning about *Distribute System**
 
-- 💬 Ask me about *python,GO, Cloud and Devops**
+- 💬 Ask me about *GO, Cloud and Devops**
 
 - 📫 How to reach me **mukhopadhyaybaivab77@gmail.com**
 
