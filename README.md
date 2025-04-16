@@ -126,7 +126,7 @@
         <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=itsbaivab&theme=tokyonight" alt="Baivab's streak stats"/>
       </td>
       <td align="center">
-        <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api?username=itsbaivab&show_icons=true&line_height=25.5&theme=tokyonight" alt="Baivab's Github Stats" />
+        <img width="450" src="https://github-readme-stats.vercel.app/api?username=itsbaivab&show_icons=true&theme=tokyonight" alt="Baivab's Github Stats" />
       </td>
     </tr>
     <tr>
