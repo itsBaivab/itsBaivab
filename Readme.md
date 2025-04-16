@@ -6,7 +6,6 @@
     <img src="./header_1.png" alt="Header Image">
 </p>
 
-
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <img height="500" src="./img/heavylifting.gif" alt="Animated GIF">
@@ -21,7 +20,6 @@
         </ul>
     </div>
 </div>
-
 
 **Cloud Services:**
 > I have experience with various cloud platforms and services.
@@ -49,10 +47,10 @@
 </table>
 
 **Cloud Services Experience:**
+
 - **AWS**: EC2, S3, Lambda, CloudWatch, Route 53, RDS
 - **Azure**: App Service, Azure Functions, Azure DevOps, Virtual Machines
 - **GCP**: Compute Engine, Cloud Functions, BigQuery, Cloud Storage
-
 
 **Programming and Languages**
 
@@ -64,7 +62,7 @@
       <a href="#macropower-tech">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Golang 
+      <br>Golang
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -120,18 +118,33 @@
 
 ## &#x1f4c8; GitHub Stats
 
-
-<dev>
-<img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=itsbaivab&theme=tokyonight" alt="mystreak"/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/itsbaivab">
+          <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=itsbaivab&theme=tokyonight" alt="Baivab's streak stats"/>
+        </a>
+      </td>
+      <td align="center">
+        <img width="450" src="https://github-readme-stats.vercel.app/api?username=itsbaivab&show_icons=true&theme=tokyonight" alt="Baivab's Github Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=itsbaivab&langs_count=10&hide=handlebars,jupyter%20notebook,css&theme=tokyonight&line_height=144&layout=compact" alt="Baivab's Top Languages"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/itsbaivab/Meshery">
+          <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=itsbaivab&repo=Meshery&title_color=5dade2&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=itsbaivab&show_icons=true&line_height=25.5&theme=tokyonight" alt="Defcon27's Github Stats" />
-<img height="200" align="center"src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=itsbaivab&langs_count=10&hide=handlebars,jupyter notebook,css&theme=tokyonight&line_height=144&layout=compact" />
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" height="200" width="600"src="https://github-readme-stats.vercel.app/api/pin/?username=Meshery&repo=Meshery&title_color=5dade2&text_color=a&icon_color=fffff&bg_color=1d1f21" />
-</a>
-
 
 ## Medium Blogs
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/2" alt="Recent Article 2">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/1" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/2" alt="Recent Article 2"></a>
