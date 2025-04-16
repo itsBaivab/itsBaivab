@@ -127,7 +127,7 @@
         </a>
       </td>
       <td align="center">
-        <img width="450" src="https://github-readme-stats.vercel.app/api?username=itsbaivab&show_icons=true&theme=tokyonight" alt="Baivab's Github Stats" />
+        <img width="430" src="https://github-readme-stats.vercel.app/api?username=itsbaivab&show_icons=true&theme=tokyonight" alt="Baivab's Github Stats" />
       </td>
     </tr>
     <tr>
