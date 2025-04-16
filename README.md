@@ -123,7 +123,9 @@
   <table>
     <tr>
       <td align="center">
-        <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=itsbaivab&theme=tokyonight" alt="Baivab's streak stats"/>
+        <a href="https://github.com/itsbaivab">
+          <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=itsbaivab&theme=tokyonight" alt="Baivab's streak stats"/>
+        </a>
       </td>
       <td align="center">
         <img width="450" src="https://github-readme-stats.vercel.app/api?username=itsbaivab&show_icons=true&theme=tokyonight" alt="Baivab's Github Stats" />
