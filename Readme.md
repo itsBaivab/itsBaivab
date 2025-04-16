@@ -132,7 +132,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=itsbaivab&langs_count=10&hide=handlebars,jupyter%20notebook,css&theme=tokyonight&line_height=144&layout=compact" alt="Baivab's Top Languages"/>
+        <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=itsbaivab&langs_count=4&hide=handlebars,jupyter%20notebook,css&theme=tokyonight&line_height=40&layout=compact" alt="Baivab's Top Languages"/>
       </td>
       <td align="center">
         <a href="https://github.com/itsbaivab/Meshery">
