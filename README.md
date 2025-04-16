@@ -119,17 +119,27 @@
 </p>
 
 ## &#x1f4c8; GitHub Stats
-
 <div align="center">
-  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=itsbaivab&theme=tokyonight" alt="Baivab's streak stats"/>
-  <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api?username=itsbaivab&show_icons=true&line_height=25.5&theme=tokyonight" alt="Baivab's Github Stats" />
-  <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=itsbaivab&langs_count=10&hide=handlebars,jupyter%20notebook,css&theme=tokyonight&line_height=144&layout=compact" alt="Baivab's Top Languages"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/itsbaivab/Meshery">
-    <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=itsbaivab&repo=Meshery&title_color=5dade2&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=itsbaivab&theme=tokyonight" alt="Baivab's streak stats"/>
+      </td>
+      <td align="center">
+        <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api?username=itsbaivab&show_icons=true&line_height=25.5&theme=tokyonight" alt="Baivab's Github Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=itsbaivab&langs_count=10&hide=handlebars,jupyter%20notebook,css&theme=tokyonight&line_height=144&layout=compact" alt="Baivab's Top Languages"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/itsbaivab/Meshery">
+          <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=itsbaivab&repo=Meshery&title_color=5dade2&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## Medium Blogs
